@@ -4,6 +4,9 @@ builder.Services.AddControllersWithViews(); // MVC tarafı için kullanılan bir
 
 var app = builder.Build();
 
+app.UseStaticFiles();
+app.UseRouting();
+
 // {controller=Home}/{action=Index}/{id?}
 // app.MapDefaultControllerRoute(); 
 app.MapControllerRoute(

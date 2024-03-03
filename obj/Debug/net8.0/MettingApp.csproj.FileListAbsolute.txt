@@ -26,3 +26,5 @@ C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\AppUyg
 C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\AppUygulaması\MettingApp\obj\Debug\net8.0\MettingApp.sourcelink.json
 C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\AppUygulaması\MettingApp\obj\Debug\net8.0\MettingApp.RazorAssemblyInfo.cache
 C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\AppUygulaması\MettingApp\obj\Debug\net8.0\MettingApp.RazorAssemblyInfo.cs
+C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\AppUygulaması\MettingApp\bin\Debug\net8.0\libman.json
+C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\AppUygulaması\MettingApp\bin\Debug\net8.0\MettingApp.staticwebassets.runtime.json

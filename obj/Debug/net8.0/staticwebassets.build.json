@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oiCCgfNNoNAmC98jBYelXRS1+NJWa9yUgC4tjgKXY84=",
+  "Hash": "GmyRCBdsKI04Cg4iasIOtVRLz74OSBK75JqbH/PXk7c=",
   "Source": "MettingApp",
   "BasePath": "_content/MettingApp",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Yazilim\\Web Projeleri\\Asp.Net Dersleri\\AppUygulaması\\MettingApp\\wwwroot\\css\\style.css",
+      "SourceId": "MettingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Yazilim\\Web Projeleri\\Asp.Net Dersleri\\AppUygulaması\\MettingApp\\wwwroot\\",
+      "BasePath": "_content/MettingApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
     {
       "Identity": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Yazilim\\Web Projeleri\\Asp.Net Dersleri\\AppUygulaması\\MettingApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "MettingApp",

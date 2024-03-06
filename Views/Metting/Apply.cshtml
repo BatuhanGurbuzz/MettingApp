@@ -1,25 +1,28 @@
+@model UserInfo
 @{
     ViewBag.Title = "Başvuru Formu";
 }
 
 <h1 class="h4 text-centerw">Toplantı katılım formu</h1>
 
-<form method="post" action="">
+<form method="post" action="/metting/apply" novalidate>
+    <div asp-validation-summary="All"></div>
     <div class="mb-3">
-        <label for="Name" class="form-label">Adınız ve Soyadınız</label>
-        <input class="form-control" type="text" name="Name" id="Name" placeholder="Adınızı ve Soyadınızı giriniz">
+        <label asp-for = "Name" class="form-label">Adınız ve Soyadınız</label>
+        <input class="form-control" asp-for = "Name" placeholder="Adınızı ve Soyadınızı giriniz">
     </div>
     <div class="mb-3">
-        <label for="Phone" class="form-label">Telefon</label>
-        <input class="form-control" type="text" name="Phone" id="Phone" placeholder="Telefon numaranızı giriniz">
+        <label asp-for = "Phone" class="form-label">Telefon</label>
+        <input class="form-control" asp-for = "Phone" placeholder="Telefon numaranızı giriniz">
     </div>
     <div class="mb-3">
-        <label for="Email" class="form-label">Email</label>
-        <input class="form-control" type="email" name="Email" id="Email" placeholder="Email adresinizi giriniz">
+        <label asp-for = "Email" class="form-label">Email</label>
+        <input class="form-control" asp-for = "Email" placeholder="Email adresinizi giriniz">
     </div>
     <div class="mb-3">
-        <label for="WillAttend" class="form-label">Katılım Durumu</label>
-        <select class="form-select" name="WillAttend" id="WillAttend">
+        <label asp-for = "WillAttend" class="form-label">Katılım Durumu</label>
+        <select class="form-select" asp-for = "WillAttend">
+            <option>Seçiniz</option>
             <option value="true">Evet, Geliyorum.</option>
             <option value="false">Hayır, Gelmiyorum.</option>
         </select>

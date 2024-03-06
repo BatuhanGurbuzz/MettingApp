@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Yazilim\\Web Projeleri\\Asp.Net Dersleri\\AppUygulaması\\MettingApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Yazilim\\Web Projeleri\\Asp.Net Dersleri\\AppUygulaması\\MettingApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },

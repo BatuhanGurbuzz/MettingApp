@@ -26,12 +26,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0dGluZ1xBcHBseS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/AppUygulaması/MettingApp/Views/Metting/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0dGluZ1xpbmRleC5jc2h0bWw=
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/AppUygulaması/MettingApp/Views/Metting/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0dGluZ1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/AppUygulaması/MettingApp/Views/Metting/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0dGluZ1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/AppUygulaması/MettingApp/Views/Metting/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0dGluZ1xUaGFua3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/AppUygulaması/MettingApp/Views/Shared/_Layout.cshtml]
